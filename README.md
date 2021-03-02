@@ -1,6 +1,6 @@
-# face-mask-detection
-  
- Face mask detection project can be used to detect people wearing mask, not wearing mask and wearing mask incorrectly, then track them by realtime. The model was built based on tiny-yolov4 model [here](https://github.com/AlexeyAB/darknet) and MOSSE object tracker. this system achieves 90% mAP and 3ms mean inference time.
+# face-mask-detection  
+![Picture1](https://user-images.githubusercontent.com/49630112/109633774-15b04700-7b7b-11eb-844c-13ebda1457f1.png)  
+Face mask detection project can be used to detect people wearing mask, not wearing mask and wearing mask incorrectly, then track them by realtime. The model was built based on tiny-yolov4 model [here](https://github.com/AlexeyAB/darknet) and MOSSE object tracker. this system achieves 90% mAP and 3ms mean inference time.
 
 ## Dataset
 This project uses kaggle ***face mask detection*** dataset
